@@ -5,8 +5,16 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.List_View_Prueba</members>
+        <name>ListView</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Flow</name>
     </types>
     <types>
         <members>*</members>
